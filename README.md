@@ -1,0 +1,2 @@
+# Hyperos2VolumePro
+将HyperOS音量条缩短至320dp
