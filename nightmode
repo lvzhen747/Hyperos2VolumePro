@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+	
+	侧边音量条长度：
+<dimen name="miui_volume_column_height">150.0dp</dimen>
+<dimen name="miui_volume_dialog_shadow_margin_top">130.0dp</dimen>
+<dimen name="miui_volume_dialog_shadow_height">320.0dp</dimen>
+
+</MIUI_Theme_Values>
+
