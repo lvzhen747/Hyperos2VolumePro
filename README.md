@@ -1,4 +1,4 @@
-# HyperosVolumePro
+# VolumePro_project
 将HyperOS音量条缩短至320dp
 作者酷安@LZX_520
 反馈请在酷安反馈
